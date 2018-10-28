@@ -8,6 +8,6 @@
 
 def roll
   numb_array = [1,2,3,4,5,6,100,13,18]
-  return rand(numb_array)
+  return Random.numb_array
 end
 puts roll
